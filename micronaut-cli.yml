@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.fundea
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, cache-caffeine, config-consul, consul, discovery-consul, hibernate-jpa, hibernate-validator, http-client, java, java-application, jdbc-hikari, junit, logback, management, maven, micrometer, micrometer-prometheus, postgres, problem-json, properties, readme, security, security-annotations, security-jwt, shade, testcontainers, undertow-server]
